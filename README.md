@@ -1,4 +1,4 @@
-journeyjacks.github.io
-======================
+JourneyJacks
+============
 
 We make you run better
